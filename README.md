@@ -28,4 +28,4 @@ Currently, I'm sharing my academic projects, architecture exercises, and experim
 
 ## 📫 Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/mohammed-maataoui/) | [Email](mailto:moomaataoui@gmail.com)
