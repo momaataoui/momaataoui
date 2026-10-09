@@ -1,18 +1,30 @@
-# Hey there ! 👋
+# Hey there! 👋
 
-I'm **Mohammed MAATAOUI BELABBES**, a Software Engineering student with a strong passion for **Backend Architecture**.
+I'm **Mohammed Maataoui Belabbes**, a Computer Engineering student at **ENSA Berrechid** with a strong passion for **Backend Architecture**.
 
-I specialize in building robust, scalable, and well-documented APIs. I love understanding what happens "under the hood"—from data management to deployment automation.
+I build robust, scalable, and well-documented APIs, and I love understanding what happens "under the hood": from data management and messaging to deployment automation.
 
-Currently, I'm sharing my academic projects, architecture exercises, and experiments with microservices here.
+I've interned twice at **SQLI (Rabat)**, where I worked on REST APIs, event-driven systems, and Agile/Scrum teamwork. Here, I share my academic projects, architecture exercises, and microservices experiments.
+
+---
+
+## 🚀 What I've Been Building
+
+* 🔔 **Event-driven notification service** (SQLI): multi-channel (Push, Email, SMS) notifications consuming Kafka events, with CQRS and Event Sourcing (Axon), real-time WebSocket/STOMP updates, and an Angular dashboard
+* ⚽ **Sports field booking API**: Spring Boot, Hibernate, PostgreSQL, secured with Keycloak and containerized with Docker
+* 🧩 **Microservices & full-stack experiments**: Spring Boot, Angular, React, Node.js
 
 ---
 
 ## 🛠 Tools & Tech
 
-* **Backend:** Java, Spring Boot (Data, Security, Cloud)
-* **Database:** PostgreSQL, MySQL
-* **DevOps & Infra:** Docker, Docker Compose, Git
+* **Backend:** Java, Spring Boot (Data, Security, Cloud), Hibernate, ASP.NET Core
+* **Architecture:** REST APIs, Microservices, Event-Driven Architecture, CQRS & Event Sourcing
+* **Messaging:** Apache Kafka, Axon Framework, WebSocket / STOMP
+* **Frontend:** Angular, React
+* **Database:** PostgreSQL, MySQL, SQLite
+* **Security:** Keycloak, OAuth2, JWT
+* **DevOps & Infra:** Docker, Docker Compose, GitHub Actions, Kubernetes, Git
 * **Tests & API:** Postman / Swagger
 
 ---
@@ -22,7 +34,8 @@ Currently, I'm sharing my academic projects, architecture exercises, and experim
 * 🎓 Student passionate about best practices (Clean Code, SOLID)
 * 🐳 Firm believer that "if it works on my machine, it should work everywhere" thanks to Docker
 * ☕️ Intensive coffee consumer
-* 💡 Always looking for new challenges and ways to optimize performance.
+* 💡 Always looking for new challenges and ways to optimize performance
+* 🌍 Languages: Arabic (native), French (C1), English (C1, IELTS 7.0)
 
 ---
 
