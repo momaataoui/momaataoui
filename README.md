@@ -1,44 +1,65 @@
-# Hey there! 👋
+<div align="center">
 
-I'm **Mohammed Maataoui Belabbes**, a Computer Engineering student at **ENSA Berrechid** with a strong passion for **Backend Architecture**.
+# Mohammed Maataoui Belabbes (Mo)
 
-I build robust, scalable, and well-documented APIs, and I love understanding what happens "under the hood": from data management and messaging to deployment automation.
+### Computer Engineering student · Backend Developer · Java / Spring Boot
 
-I've interned twice at **SQLI (Rabat)**, where I worked on REST APIs, event-driven systems, and Agile/Scrum teamwork. Here, I share my academic projects, architecture exercises, and microservices experiments.
+I build robust, scalable and well-documented APIs, and I enjoy understanding what happens under the hood: data management, messaging and deployment automation.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-maataoui/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moomaataoui@gmail.com)
 
-## 🚀 What I've Been Building
-
-* 🔔 **Event-driven notification service** (SQLI): multi-channel (Push, Email, SMS) notifications consuming Kafka events, with CQRS and Event Sourcing (Axon), real-time WebSocket/STOMP updates, and an Angular dashboard
-* ⚽ **Sports field booking API**: Spring Boot, Hibernate, PostgreSQL, secured with Keycloak and containerized with Docker
-* 🧩 **Microservices & full-stack experiments**: Spring Boot, Angular, React, Node.js
+</div>
 
 ---
 
-## 🛠 Tools & Tech
+## 🎓 About
 
-* **Backend:** Java, Spring Boot (Data, Security, Cloud), Hibernate, ASP.NET Core
-* **Architecture:** REST APIs, Microservices, Event-Driven Architecture, CQRS & Event Sourcing
-* **Messaging:** Apache Kafka, Axon Framework, WebSocket / STOMP
-* **Frontend:** Angular, React
-* **Database:** PostgreSQL, MySQL, SQLite
-* **Security:** Keycloak, OAuth2, JWT
-* **DevOps & Infra:** Docker, Docker Compose, GitHub Actions, Kubernetes, Git
-* **Tests & API:** Postman / Swagger
+- **ENSA Berrechid** (Université Hassan 1er), Computer Science / Génie Informatique, second engineering cycle
+- Based in **Settat, Morocco**
+- Interned at **SQLI (Rabat)** and worked on REST APIs, event-driven systems and Agile/Scrum teams
+- Languages: Arabic (native), French (C1), English (C1, IELTS 7.0)
 
 ---
 
-## ⚡️ A Bit About Me
+## 🚀 Featured Projects
 
-* 🎓 Student passionate about best practices (Clean Code, SOLID)
-* 🐳 Firm believer that "if it works on my machine, it should work everywhere" thanks to Docker
-* ☕️ Intensive coffee consumer
-* 💡 Always looking for new challenges and ways to optimize performance
-* 🌍 Languages: Arabic (native), French (C1), English (C1, IELTS 7.0)
+| Project | Highlights |
+|---|---|
+| 🔔 **Event-driven notification service** (PFA, SQLI) | Multi-channel notifications (Push, Email, SMS) consuming Kafka events, CQRS & Event Sourcing with Axon, real-time WebSocket/STOMP updates, Angular dashboard |
+| 🏦 **GescoBank** | Spring Boot banking application built step by step, JWT security, React/Next.js frontend |
+| 📦 **Order Management Platform** | Microservices with Spring Boot, Spring Cloud and Angular |
+| ⚽ **Sports field booking API** | Spring Boot, Hibernate, PostgreSQL, Keycloak security, Dockerized |
+| 📱 **ReservaApp** | Collaborative Android hotel reservation app, Firebase backend, Gemini AI search |
 
 ---
 
-## 📫 Connect with me
+## 🛠 Tech Stack
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-maataoui/) | [Email](mailto:moomaataoui@gmail.com)
+**Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) Hibernate · ASP.NET Core
+
+**Architecture:** REST APIs · Microservices · Event-Driven Architecture · CQRS & Event Sourcing
+
+**Messaging:** ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) Axon Framework · WebSocket / STOMP
+
+**Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) Next.js
+
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) MySQL · SQLite
+
+**Security:** Keycloak · OAuth2 · JWT
+
+**DevOps & Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Docker Compose · Kubernetes · ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) · Git · Postman / Swagger
+
+---
+
+## 💡 Principles I Work By
+
+- Clean Code and SOLID
+- "If it works on my machine, it should work everywhere", thanks to Docker
+- Always looking for new challenges and ways to optimize performance
+
+---
+
+## 📫 Let's connect
+
+Reach out on [LinkedIn](https://www.linkedin.com/in/mohammed-maataoui/) or by [email](mailto:moomaataoui@gmail.com).
