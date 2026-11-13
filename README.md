@@ -9,122 +9,74 @@
   <a href="mailto:moomaataoui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momaataoui&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momaataoui&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170">
-</p>
+---
+
+### 🎓 Who am I?
+
+🏫 Computer Engineering student at **ENSA Berrechid**
+📍 Based in **Settat, Morocco**
+💼 Interned at **SQLI (Rabat)**: REST APIs, Agile/Scrum, event-driven systems
+🗣️ Arabic (native) · French (C1) · English (C1, IELTS 7.0)
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧰 My toolbox
 
-### 🎓 Quick facts
-🏫 Computer Engineering @ **ENSA Berrechid**
-📍 **Settat**, Morocco 🇲🇦
-💼 Interned at **SQLI (Rabat)** 🚀
-🗣️ 🇸🇦 Arabic · 🇫🇷 French (C1) · 🇬🇧 English (C1, IELTS 7.0)
+**Backend** 🍃 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) Hibernate · ASP.NET Core
 
-</td>
-<td width="50%" valign="top">
+**Architecture** 🏗️ REST · Microservices · Event-Driven · CQRS & Event Sourcing
 
-### 🔥 Level up
-🍃 Java · Spring Boot · Hibernate
-🏗️ Microservices · Event-Driven · CQRS
-🔐 OAuth2 · JWT · Keycloak
-🐳 Docker · Kubernetes · GitHub Actions
+**Messaging** 📨 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) Axon · WebSocket / STOMP
 
-</td>
-</tr>
-</table>
+**Frontend** 🎨 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) Next.js
+
+**Data** 🗄️ ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) MySQL · SQLite
+
+**Security** 🔐 Keycloak · OAuth2 · JWT
+
+**DevOps** 🐳 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Compose · Kubernetes · ![Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) · Git · Postman / Swagger
 
 ---
 
-### 🧰 The toolbox
+### 🚀 What I've built
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-</p>
+<details open>
+<summary>🔔 <b>Event-driven notification service</b> (PFA at SQLI)</summary>
 
-Also in the mix: **Hibernate** · **ASP.NET Core** · **Axon** · **WebSocket / STOMP** · **Next.js** · **MySQL** · **SQLite** · **Keycloak** · **Postman / Swagger**
+Push, Email and SMS notifications fed by Kafka events, with CQRS & Event Sourcing (Axon), real-time WebSocket/STOMP updates and an Angular dashboard.
+</details>
 
----
+<details>
+<summary>🏦 <b>GescoBank</b></summary>
 
-### 🚀 Mission log
+A banking app built step by step: Spring Boot, JWT security, React/Next.js frontend.
+</details>
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary>📦 <b>Order Management Platform</b> (PFA)</summary>
 
-#### 🔔 Notification service
-**PFA at SQLI** · Event-driven, multi-channel
-📲 Push · 📧 Email · 💬 SMS, fed by Kafka events
-🧠 CQRS & Event Sourcing with Axon
-⚡ Real-time WebSocket/STOMP + Angular dashboard
+Microservices with Spring Boot, Spring Cloud and Angular.
+</details>
 
-</td>
-<td width="50%">
+<details>
+<summary>⚽ <b>Sports field booking API</b></summary>
 
-#### 🏦 GescoBank
-**Banking app, built step by step**
-🔐 Spring Boot with JWT security
-🖥️ React / Next.js frontend
+Spring Boot, Hibernate, PostgreSQL, Keycloak security, all in Docker.
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<details>
+<summary>📱 <b>ReservaApp</b></summary>
 
-#### 📦 Order Management Platform
-**PFA** · Microservices
-🧩 Spring Boot · Spring Cloud · Angular
-
-</td>
-<td width="50%">
-
-#### ⚽ Sports field booking API
-🏟️ Spring Boot · Hibernate · PostgreSQL
-🔑 Keycloak security · 🐳 fully Dockerized
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📱 ReservaApp
-**Collaborative Android app**
-🏨 Hotel reservations · 🔥 Firebase backend
-🤖 Gemini AI search
-
-</td>
-<td width="50%">
-
-#### 🧪 Your next project?
-Bring a backend problem. I like the hard ones. 😄
-
-</td>
-</tr>
-</table>
+Collaborative Android hotel booking app with a Firebase backend and Gemini AI search.
+</details>
 
 ---
 
 ### 🧠 Life rules
 
-> *"It works on my machine" is not a deployment strategy.* 🐳
-
-- ✨ Clean Code and SOLID, always
-- ⚡ Obsessed with making things faster
-- ☕ Powered by coffee, fueled by curiosity
+- Clean Code and SOLID, always ✨
+- "It works on my machine" is not a deployment strategy, so I use Docker 🐳
+- Coffee-powered ☕ and always chasing a faster API ⚡
 
 ---
 
