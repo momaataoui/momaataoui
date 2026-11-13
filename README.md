@@ -14,7 +14,6 @@
 ## 🎓 About
 
 - **ENSA Berrechid** (Université Hassan 1er), Computer Science / Génie Informatique, second engineering cycle
-- Based in **Settat, Morocco**
 - Interned at **SQLI (Rabat)** and worked on REST APIs, event-driven systems and Agile/Scrum teams
 - Languages: Arabic (native), French (C1), English (C1, IELTS 7.0)
 
